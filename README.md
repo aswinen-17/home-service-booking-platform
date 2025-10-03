@@ -31,3 +31,6 @@ cd ../frontend
 npm run dev
 cd admin
 npm run dev
+
+## Live Demo
+You can view the live app here:[https://home-service-booking-platform-1.onrender.com](https://home-service-booking-platform-1.onrender.com)

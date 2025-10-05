@@ -7,7 +7,7 @@ export const StoreContext = createContext(null)
 const StoreContextProvider = (props) => {
 
     const [cartItems,setCartItems] = useState({});
-    const url = "https://localhost:5173"
+    const url = "https://home-service-booking-platform-backend.onrender.com"
     const [token, setToken] = useState("");
     const [service_list,setServiceList] = useState([])
 

@@ -17,4 +17,4 @@ export const assets ={
     logonewadmin
 }
 
-export const url = 'https://home-service-booking-platform.onrender.com'
+export const url = 'http://localhost:4000'
